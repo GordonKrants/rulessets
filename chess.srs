@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain_suffix": [
+            "assets-themes.chess.com",
+            "chess.com",
+            "images.chesscomfiles.com",
+            "www.chess.com"
+           ]
+      }
+    ]
+  }
